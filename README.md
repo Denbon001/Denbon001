@@ -1,8 +1,6 @@
 # Hi, I'm Denish Thouna! 👋
 
-I am a **Data Science & AI Graduate Student (MCA)** focused on transforming complex datasets into structured, actionable insights and building intelligent AI systems. I specialize in data cleaning, predictive modeling, and developing applications.
-
-Currently seeking **Data Analyst / Machine Learning Internships** to deliver data-driven solutions that support business objectives.
+I’m an MCA student specializing in **Data Science & AI**. I love cleaning up messy data, building predictive models, and turning complex datasets into clear, actionable insights. Currently looking for **Data Analyst** or **Machine Learning internships** where I can help teams build smart solutions.
 
 ---
 
